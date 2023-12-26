@@ -1,9 +1,12 @@
 /*
 rrecorridos de una arbol.
+R = raiz
+I = izquierda
+D = derecha
 
 rrecorrido preorden -> RID
-rrecorrido inorden -> I
-recoorrido posorder
+rrecorrido inorden -> IRD
+recoorrido posorder -> IDR
 */
 #include <iostream>
 using namespace std;
