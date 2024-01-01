@@ -165,8 +165,5 @@ int main() {
     std::cin >> valor;
     std::cout<<std::endl;
     bfs(ternario, valor);
-
-    delete ternario;
-
     return 0;
 }
